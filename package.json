@@ -1,0 +1,26 @@
+{
+  "name": "cypress-challenge",
+  "version": "1.0.0",
+  "description": "automated tests made with cypress.io ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannasantos/cypress-challenge.git"
+  },
+  "keywords": [
+    "QA",
+    "Automation"
+  ],
+  "author": "Johanna Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johannasantos/cypress-challenge/issues"
+  },
+  "homepage": "https://github.com/johannasantos/cypress-challenge#readme",
+  "devDependencies": {
+    "cypress": "^4.9.0"
+  }
+}
