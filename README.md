@@ -79,7 +79,7 @@ Target application: Teach Abroad or Online | Your Dream Teaching Job Awaits - ht
 Element path: 
 
 ```
-Element path: 
+
 #Homepage_Section1\.1_ViewTeachingJobs
 
 ```
