@@ -8,8 +8,8 @@ context('Confirm the cookies policies and go to Login page', () => {
 
     describe('Log In test cases', () => {
         it("Verify that it is possible to login with a correct username and password", () => {
-          cy.get('#edit-name').type(mail);
-          cy.get('#edit-pass').type(password);
+          cy.get('#edit-name').type('johndoe123@mailinator.com');
+          cy.get('#edit-pass').type('1234Password');
           cy.get('#edit-submit').click();
         })
 
