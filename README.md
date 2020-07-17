@@ -66,7 +66,10 @@ Target application: Teach Abroad or Online | Your Dream Teaching Job Awaits - ht
 
 Element path: #Homepage_Section1\.1_ViewTeachingJobs
 
-Snippet: <a class="btn btn-cta-front" id="Homepage_Section1.1_ViewTeachingJobs" href="/teaching-jobs-abroad" title="Teaching Jobs Abroad" tabindex="0">View Teaching Jobs</a>
+Snippet: 
+
+```<a class="btn btn-cta-front" id="Homepage_Section1.1_ViewTeachingJobs" href="/teaching-jobs-abroad" title="Teaching Jobs Abroad" tabindex="0">View Teaching Jobs</a>
+```
 
 How to fix: 
 Fix any of the following:
@@ -85,7 +88,10 @@ Target application: Teach Abroad or Online | Your Dream Teaching Job Awaits - ht
 
 Element path: .nav-recruitment > .tb-megamenu-submenu.dropdown-menu.mega-dropdown-menu > .mega-dropdown-inner.container-fluid-md.container > .tb-megamenu-row.row-fluid > .span12.tb-megamenu-column[data-width="\31 2"]
 
-Snippet: <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12">
+Snippet:
+
+```<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12">
+```
 
 How to fix: 
 Fix any of the following:
@@ -103,7 +109,10 @@ Target application: Teach Abroad or Online | Your Dream Teaching Job Awaits - ht
 
 Element path: .ub-emb-iframe-wrapper.ub-emb-visible > .ub-emb-iframe
 
-Snippet: <iframe class="ub-emb-iframe" src="//1f20e04c15dd469d9594a2fa31cd66c7.pages.ubembed.com/4c183535-ae29-47f8-adea-a1ddd1fc6bb8/a.html?closedAt=0" style="width: 100% !important; height: 69px !important;"></iframe>
+Snippet: 
+
+```<iframe class="ub-emb-iframe" src="//1f20e04c15dd469d9594a2fa31cd66c7.pages.ubembed.com/4c183535-ae29-47f8-adea-a1ddd1fc6bb8/a.html?closedAt=0" style="width: 100% !important; height: 69px !important;"></iframe>
+```
 
 How to fix: 
 Fix any of the following:
